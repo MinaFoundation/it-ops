@@ -1,0 +1,65 @@
+{
+    "optionalFeatures": {
+      "acceptableCameraUsage": true,
+      "acceptableScreenSharingUsage": true,
+      "aggressiveUserExperience": false,
+      "aggressiveUserFullScreenExperience": true,
+      "enforceMinorUpdates": true
+    },
+    "osVersionRequirements": [
+      {
+        "aboutUpdateURLs": [
+          {
+            "_language": "en",
+            "aboutUpdateURL": "UpdateURL"
+          }
+        ],
+        "requiredInstallationDate": "2024-04-04T17:00:00Z",
+        "requiredMinimumOSVersion": "14.4.1",
+        "targetedOSVersionsRule": "14"
+      }
+    ],
+    "userExperience": {
+      "allowedDeferrals": 8,
+      "allowedDeferralsUntilForcedSecondaryQuitButton": 5,
+      "approachingRefreshCycle": 900,
+      "approachingWindowTime": 72,
+      "elapsedRefreshCycle": 900,
+      "gracePeriodInstallDelay": 23,
+      "gracePeriodLaunchDelay": 23,
+      "gracePeriodPath": "/private/var/db/.AppleSetupDone",
+      "imminentRefreshCycle": 600,
+      "imminentWindowTime": 24,
+      "initialRefreshCycle": 18000
+    },
+    "userInterface": {
+      "iconDarkPath": "/Library/Management/resources/company_logo.png",
+      "iconLightPath": "/Library/Management/resources/company_logo.png",
+      "screenShotDarkPath": "/Library/Management/resources/sonoma_update_dark.png",
+      "screenShotLightPath": "/Library/Management/resources/sonoma_update_light.png",
+      "actionButtonPath": "/System/Library/CoreServices/Software Update.app",
+      "fallbackLanguage": "en",
+      "forceFallbackLanguage": true,
+      "showDeferralCount": true,
+      "simpleMode": false,
+      "singleQuitButton": true,
+      "updateElements": [
+        {
+          "_language": "en",
+          "mainHeader": "There is a critical security update available",
+          "mainContentHeader": "Please update to macOS 14.4.1 today!",
+          "subHeader": "A friendly reminder from IT Ops",
+          "actionButtonText": "Update Device",
+          "mainContentText": "Keep in mind that an updated macOS is required to access internal services.",
+          "customDeferralButtonText": "Custom",
+          "informationButtonText": "More Info",
+          "mainContentNote": "Important Notes",
+          "mainContentSubHeader": "Updates can take around 30 minutes to complete",
+          "primaryQuitButtonText": "Later",
+          "secondaryQuitButtonText": "I understand",
+          "oneHourDeferralButtonText": "One Hour",
+          "oneDayDeferralButtonText": "Tomorrow, even if Okta is blocked"
+        }
+      ]
+    }
+  }
