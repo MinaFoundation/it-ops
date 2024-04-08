@@ -33,8 +33,8 @@
       "initialRefreshCycle": 18000
     },
     "userInterface": {
-      "iconDarkPath": "/Library/Management/resources/company_logo.png",
-      "iconLightPath": "/Library/Management/resources/company_logo.png",
+      "iconDarkPath": "/Users/Shared/Test/company_logo.png",
+      "iconLightPath": "/Users/Shared/Test/company_logo.png",
       "actionButtonPath": "/System/Library/CoreServices/Software Update.app",
       "fallbackLanguage": "en_US",
       "forceFallbackLanguage": true,
