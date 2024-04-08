@@ -14,7 +14,7 @@
             "aboutUpdateURL": "https://support.apple.com/en-us/HT201222"
           }
         ],
-        "requiredInstallationDate": "2024-04-10T14:00:00Z",
+        "requiredInstallationDate": "2024-04-12T14:00:00Z",
         "requiredMinimumOSVersion": "14.4.1",
         "targetedOSVersionsRule": "default"
       }
