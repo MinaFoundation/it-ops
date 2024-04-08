@@ -11,7 +11,7 @@
         "aboutUpdateURLs": [
           {
             "_language": "en",
-            "aboutUpdateURL": "UpdateURL"
+            "aboutUpdateURL": "https://support.apple.com/en-us/HT201222"
           }
         ],
         "requiredInstallationDate": "2024-04-08T14:00:00Z",
@@ -35,10 +35,8 @@
     "userInterface": {
       "iconDarkPath": "/Library/Management/resources/company_logo.png",
       "iconLightPath": "/Library/Management/resources/company_logo.png",
-      "screenShotDarkPath": "/Library/Management/resources/sonoma_update_dark.png",
-      "screenShotLightPath": "/Library/Management/resources/sonoma_update_light.png",
       "actionButtonPath": "/System/Library/CoreServices/Software Update.app",
-      "fallbackLanguage": "en",
+      "fallbackLanguage": "en_US",
       "forceFallbackLanguage": true,
       "showDeferralCount": true,
       "simpleMode": false,
