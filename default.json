@@ -33,8 +33,8 @@
       "initialRefreshCycle": 18000
     },
     "userInterface": {
-      "iconDarkPath": "/Library/Management/resources/company_logo.png",
-      "iconLightPath": "/Library/Management/resources/company_logo.png",
+      "iconDarkPath": "/Library/Management/Mina/company_logo.png",
+      "iconLightPath": "/Library/Management/Mina/company_logo.png",
       "screenShotDarkPath": "/Library/Management/resources/sonoma_update_dark.png",
       "screenShotLightPath": "/Library/Management/resources/sonoma_update_light.png",
       "actionButtonPath": "/System/Library/CoreServices/Software Update.app",
