@@ -45,7 +45,7 @@
       "singleQuitButton": true,
       "updateElements": [
         {
-          "_language": "en",
+          "_language": "en_US",
           "mainHeader": "There is a critical security update available",
           "mainContentHeader": "Your device will restart during this update",
           "subHeader": "Updates can take around 30 minutes to complete",
